@@ -1,0 +1,53 @@
+ID,Pergunta,A,Nó A,B,Nó B
+1,A área do terreno é menor que 4979 pés quadrados?,SIM,2,NÃO,17
+2,A quantidade de andares é menor que 2?,SIM,6,NÃO,3
+3,NÓ FOLHA,O preço está na média,,,
+4,NÓ FOLHA,O preço está acima da média (CARO),,,
+5,NÓ FOLHA,O preço está abaixo da média (BARATO),,,
+6,A área do porão é menor que 433 pés quadrados?,SIM,7,NÃO,12
+7,A área interna é menor que 1853 pés quadrados?,SIM,8,NÃO,11
+8,A quantidade de vistas é menor que 1?,SIM,3,NÃO,9
+9,A área acima do chão é menor que 1419 pés quadrados?,SIM,10,NÃO,3
+10,A nota de condição é menor que 3?,SIM,3,NÃO,4
+11,A nota de condição é menor que 3?,SIM,5,NÃO,3
+12,A quantidade de banheiros é menor que 2?,SIM,3,NÃO,13
+13,A nota de condição é menor que 3?,SIM,3,NÃO,14
+14,A área interna é menor que 1853 pés quadrados?,SIM,3,NÃO,15
+15,A área acima do chão é menor que 1419 pés quadrados?,SIM,16,NÃO,3
+16,A quantidade de quartos é menor que 3?,SIM,5,NÃO,3
+17,A área do porão é menor que 433 pés quadrados?,SIM,18,NÃO,32
+18,A quantidade de quartos é menor que 3?,SIM,19,NÃO,29
+19,A nota de condição é menor que 3?,SIM,20,NÃO,26
+20,A área acima do chão é menor que 1419 pés quadrados?,SIM,21,NÃO,24
+21,A quantidade de andares é menor que 2?,SIM,22,NÃO,23
+22,A quantidade de banheiros é menor que 2?,SIM,3,NÃO,4
+23,A quantidade de banheiros é menor que 2?,SIM,5,NÃO,3
+24,A nota da casa é menor que 8?,SIM,25,NÃO,3
+25,A quantidade de banheiros é menor que 2?,SIM,3,NÃO,5
+26,A quantidade de vistas é menor que 1?,SIM,27,NÃO,4
+27,A quantidade de banheiros é menor que 2?,SIM,28,NÃO,3
+28,A área acima do chão é menor que 1419 pés quadrados?,SIM,3,NÃO,4
+29,A quantidade de vistas é menor que 1?,SIM,3,NÃO,30
+30,A quantidade de andares é menor que 2?,SIM,3,NÃO,31
+31,A nota de condição é menor que 3?,SIM,5,NÃO,3
+32,A área interna é menor que 1853 pés quadrados?,SIM,3,NÃO,33
+33,A nota da casa é menor que 8?,SIM,34,NÃO,41
+34,A nota de condição é menor que 3?,SIM,35,NÃO,38
+35,A área acima do chão é menor que 1419 pés quadrados?,SIM,36,NÃO,5
+36,A quantidade de quartos é menor que 3?,SIM,37,NÃO,5
+37,A quantidade de vistas é menor que 1?,SIM,5,NÃO,3
+38,A quantidade de banheiros é menor que 2?,SIM,3,NÃO,39
+39,A quantidade de vistas é menor que 1?,SIM,3,NÃO,40
+40,A área acima do chão é menor que 1419 pés quadrados?,SIM,5,NÃO,3
+41,A quantidade de quartos é menor que 3?,SIM,42,NÃO,49
+42,A área acima do chão é menor que 1419 pés quadrados?,SIM,3,NÃO,43
+43,A quantidade de andares é menor que 2?,SIM,44,NÃO,46
+44,A quantidade de banheiros é menor que 2?,SIM,45,NÃO,3
+45,A nota de condição é menor que 3?,SIM,3,NÃO,5
+46,A quantidade de banheiros é menor que 2?,SIM,3,NÃO,47
+47,A quantidade de vistas é menor que 1?,SIM,48,NÃO,3
+48,A nota de condição é menor que 3?,SIM,3,NÃO,5
+49,A nota de condição é menor que 3?,SIM,3,NÃO,50
+50,A quantidade de vistas é menor que 1?,SIM,51,NÃO,52
+51,A área acima do chão é menor que 1419 pés quadrados?,SIM,5,NÃO,3
+52,A quantidade de andares é menor que 2?,SIM,3,NÃO,4
